@@ -54,7 +54,7 @@ Standards track EIPs of type 'Core' are updated from 'Draft' to 'Accepted' statu
 
 Standards track, non-core EIPs remain in Draft status until at least one implementation has been completed and referenced in the Implementations section of the draft. At that point, the draft's author may apply to the EIP editor, by way of a pull request, to assign a number to the EIP and update its status to 'Final', moving it to the EIPs directory and renaming it accordingly.
 
-Non-standards track EIPs may be transitioned to 'Accepted' or 'Final' status when the author requests it, and at the discretion of the editors.
+Non-standards track EIPs may be transitioned to 'Final' status when the author requests it, and at the discretion of the editors.
 
 For an EIP to be accepted it must meet certain minimum criteria. It must be a clear and complete description of the proposed enhancement. The enhancement must represent a net improvement. The proposed implementation, if applicable, must be solid and must not complicate the protocol unduly. The EIP editor will not unreasonably deny an EIP. Reasons for denying EIP status include duplication of effort, being technically unsound, not providing proper motivation, or failing to address backwards compatibility.
 
